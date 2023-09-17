@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @alexbraadworst
-- 👀 I’m interested in things that make my life easier!
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...nothing. Do not talk to me.
-- 📫 How to reach me ...nah bro
+im alekks
+hiiiii
+dont talk to me i cant help u
+only using this for notes and backing up i3 config
 
 <!---
 alexbraadworst/alexbraadworst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
