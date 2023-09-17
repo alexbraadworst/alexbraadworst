@@ -2,8 +2,6 @@ im alekks
 
 hiiiii
 
-dont talk to me i cant help u
-
 only using this for notes and backing up i3 config
 
 :3333
