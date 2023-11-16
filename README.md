@@ -2,7 +2,7 @@ im alekks
 
 hiiiii
 
-only using this for notes and backing up i3 config
+only using this for notes and backing up configs n stuff
 
 :3333
 <!---
