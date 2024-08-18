@@ -1,4 +1,4 @@
-[![Alekks' GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbraadworst)](https://github.com/alexbraadworst/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbraadworst)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm Alekks
 
