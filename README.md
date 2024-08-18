@@ -1,3 +1,5 @@
+[![Alekks' GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbraadworst)](https://github.com/alexbraadworst/github-readme-stats)
+
 I'm Alekks
 
 I only use this for personal usage, don't expect anything good here
