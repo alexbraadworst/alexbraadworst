@@ -1,11 +1,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbraadworst)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm Alekks
+## about me
+i'm juniper! i'm a high school student interested in the old web, *nix systems, cryptography, and information security. don't expect much good here lol
 
-I only use this for personal usage, don't expect anything good here
+all of my software and stuff is licensed under free licenses, so use them however you wish.
 
-Have a nice day
-<!---
-alexbraadworst/alexbraadworst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## contact
+i'm free to chat about whatever's on here, and you can contact me via any number of ways:
+email: kuro [at] shironeko.dev [![PGP key](https://shironeko.dev/pgp-shironeko.asc)]
+matrix: @kuroneko:envs.net
+discord: zlxkks
