@@ -7,6 +7,9 @@ all of my software and stuff is licensed under free licenses, so use them howeve
 
 ## contact
 i'm free to chat about whatever's on here, and you can contact me via any number of ways:
+
 email: kuro [at] shironeko.dev [![PGP key](https://shironeko.dev/pgp-shironeko.asc)]
+
 matrix: @kuroneko:envs.net
+
 discord: zlxkks
